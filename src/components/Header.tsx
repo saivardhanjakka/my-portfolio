@@ -9,9 +9,14 @@ const Header = () => {
           <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <div className="flex flex-col md:flex-row items-center justify-center md:justify-start space-y-6 md:space-y-0 md:space-x-6 text-center md:text-left">
             {/* Profile Image */}
-            <div className="w-24 h-24 md:w-28 md:h-28 rounded-full bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center text-white text-2xl md:text-3xl font-bold flex-shrink-0">
-              JS
-            </div>
+          <div className="w-24 h-24 md:w-28 md:h-28 rounded-full overflow-hidden flex-shrink-0">
+  <img
+    src="/assets/profile.jpg"
+    alt="Profile"
+    className="w-full h-full object-cover"
+  />
+</div>
+
             
             {/* Profile Info */}
             <div className="flex-1">
