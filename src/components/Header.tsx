@@ -1,4 +1,4 @@
-import { Mail, MapPin, Phone, Calendar, Github, Linkedin } from 'lucide-react';
+import { Mail, MapPin, Calendar, Github, Linkedin } from 'lucide-react';
 import { FaWhatsapp } from 'react-icons/fa';
 
 const Header = () => {
