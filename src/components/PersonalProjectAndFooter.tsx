@@ -245,7 +245,7 @@ const PersonalProjectAndFooter = () => {
     
       <a 
         href="https://github.com/saivardhanjakka" 
-        className="inline-block rounded-md bg-blue-600 px-6 py-3 text-base font-bold text-white"
+        className="inline-block rounded-md bg-blue-600 px-6 py-3 text-base !text-white"
       >
         Other Projects
       </a>
