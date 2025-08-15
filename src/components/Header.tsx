@@ -33,7 +33,7 @@ const Header = () => {
                 </div>
                 <div className="flex items-center space-x-2">
                   <Calendar className="w-4 h-4" />
-                  <span>1.3 Years Experience</span>
+                  <span>1.4 Years Experience</span>
                 </div>
               </div>
               

@@ -9,7 +9,7 @@ const AboutMe = () => {
           <div className="bg-white rounded-lg p-8 shadow-sm">
             <p className="text-gray-600 leading-relaxed mb-6">
              Hello, I am Jakka Saivardhan. I am a Full Stack Java/React Js
-              Developer with 1.3 Years of experience in Application Development
+              Developer with 1.4 Years of experience in Application Development
               (Microservices), Design, Deployment, Monitoring and Testing using
               Java/J2EE, JPA/Hibernate, Spring Boot (Core, MVC, Security, REST,
               Data JPA), Spring Cloud (Microservices), JUnit, Mockito, Docker,
@@ -26,14 +26,14 @@ const AboutMe = () => {
                 <Server className="w-8 h-8 text-green-500 mx-auto mb-2" />
                 <h3 className="font-semibold text-gray-900 mb-1">Backend</h3>
                 <p className="text-sm text-gray-600">Java(J2SE & J2EE), Java 8 Features,Spring Core, MVC, Security and REST,
-                  Spring & Spring Boot,Microservices with Spring Cloud,Hibernate With Spring Data JPA,Servlets, JSP, JDBC,MySQL</p>
+                  Spring & Spring Boot,Microservices with Spring Cloud,Hibernate With Spring Data JPA,Servlets, JSP, JDBC</p>
                 
               </div>
               <div className="text-center">
                 <Database className="w-8 h-8 text-purple-500 mx-auto mb-2" />
                 <h3 className="font-semibold text-gray-900 mb-1">Database And Tools</h3>
                 <p className="text-sm text-gray-600">MySQL,Docker,
-                  SonarQube,Junit And Mockito,Aws Cloud</p>
+                  SonarQube,Junit And Mockito,Aws Cloud(Ec2,Rds,S3),Redis Cache,Git,Swagger,Log4j</p>
               </div>
             </div>
           </div>
