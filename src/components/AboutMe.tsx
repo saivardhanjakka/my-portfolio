@@ -9,7 +9,7 @@ const AboutMe = () => {
           <div className="bg-white rounded-lg p-8 shadow-sm">
             <p className="text-gray-600 leading-relaxed mb-6">
              Hello, I am Jakka Saivardhan. I am a Full Stack Java/React Js
-              Developer with 1.4 Years of experience in Application Development
+              Developer with 2 Years of experience in Application Development
               (Microservices), Design, Deployment, Monitoring and Testing using
               Java/J2EE, JPA/Hibernate, Spring Boot (Core, MVC, Security, REST,
               Data JPA), Spring Cloud (Microservices), JUnit, Mockito, Docker,
